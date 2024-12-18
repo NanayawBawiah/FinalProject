@@ -1,5 +1,4 @@
-# FinalProject
-
+# Final Project
 
 Every loan between a lender and borrower, begins with a question: Will this borrower pay me back?
 But how can a lender know with confidence which factors to consider when evaluating a given borrower?
