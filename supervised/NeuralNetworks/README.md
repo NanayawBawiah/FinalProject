@@ -1,0 +1,1 @@
+For Neural Networks i generate random sample Data.
