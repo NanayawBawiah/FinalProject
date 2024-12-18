@@ -1,0 +1,1 @@
+For KMeansClustering I used consumer Data.It is uploaded here in my repository.
