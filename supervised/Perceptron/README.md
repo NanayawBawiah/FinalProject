@@ -1,1 +1,1 @@
-I use Skikit-Learn Breast Cancer dataset for this Algorithm.
+I use Scikit-Learn Breast Cancer dataset for this Algorithm.
