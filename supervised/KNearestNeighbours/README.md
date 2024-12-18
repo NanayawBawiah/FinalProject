@@ -1,3 +1,1 @@
-For KNN i used Wine Data from Kaggle. 
-
-Link to Data:[Wine Data](https://www.kaggle.com/datasets/yasserh/wine-quality-dataset)
+Ever wondered how facial recognision works? Here i use Olivetti Faces dataset from Scikit Learn.
