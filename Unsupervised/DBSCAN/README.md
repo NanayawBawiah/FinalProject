@@ -1,1 +1,1 @@
-For DBSCAN I used consumer complaints datat
+For DBSCAN ,I used scikit learns make moons data set  which creates two interleaving half circles - perfect for demonstrating DBSCAN's ability to find non-spherical clusters.
