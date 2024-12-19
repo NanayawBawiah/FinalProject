@@ -1,3 +1,3 @@
 # Final Project
 
-To introduce some variety i used weather data, breast cancer data, salary data,housing and wine data in addition to scikit learn datatasets.Notes are within the respective models.
+To introduce some variety, I used weather data, breast cancer data, spam data, housing, and wine data in addition to scikit learn datasets. Notes are within the respective models.
